@@ -1,6 +1,6 @@
 # EXPERIMENT 3: Simulation of All Flip-Flops using Blocking Statement
 
-## AIM
+## AIM 
 To design and simulate basic flip-flops (SR, D, JK, and T) using **blocking statements** in Verilog HDL, and verify their functionality through simulation in Vivado 2023.1.
 
 ## APPARATUS REQUIRED
